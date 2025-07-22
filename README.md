@@ -1,6 +1,7 @@
-# React
+# Edu AI Version 1.0.0
 
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
+An AI-driven e-learning platform that personalizes study content and supports live collaboration among students and tutors. 
+Use Cases: High-school students use the app for exam prep; it tracks each student’s strengths/weaknesses and generates customized quizzes. Students can join live group problem-solving sessions with a shared whiteboard and a tutor present. An AI chatbot tutor answers questions in real-time and provides hints for difficult problems. Teachers use an analytics dashboard to monitor class progress and send targeted practice materials.
 
 ## 🚀 Features
 
